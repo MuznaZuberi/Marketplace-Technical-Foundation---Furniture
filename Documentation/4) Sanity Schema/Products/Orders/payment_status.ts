@@ -1,33 +1,33 @@
 export default {
-	name : "payment_status",
-	type : "document",
-	title : "Payment Status",
+	name: "payment_status",
+	type: "document",
+	title: "Payment Status",
 	fields : [
       
       {
-      	name : "id",
-      	type : "number",
-      	title : "Payment ID",
+      	name: "id",
+      	type: "number",
+      	title: "Payment ID",
       },
 
 
       {
-      	name : "amount",
-      	type : "string",
-      	title : "Amount",
+      	name: "amount",
+      	type: "string",
+      	title: "Amount",
       },
 
 
       {
-      	name : "date",
-      	type : "string",
-      	title : "Payment Date",
+      	name: "date",
+      	type: "string",
+      	title: "Payment Date",
       },
 
       {
-      	name : "paymethod",
-      	type : "string",
-      	title : "Payment Method",
+      	name: "paymethod",
+      	type: "string",
+      	title: "Payment Method",
       },
 
 	],
