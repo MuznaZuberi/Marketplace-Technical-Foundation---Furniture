@@ -1,5 +1,5 @@
 export default {
-	name : "product",
+    name : "product",
     type : "document",
     title : "Product",
     fields : [
